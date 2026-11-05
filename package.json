@@ -1,0 +1,8 @@
+{
+  "name": "detyra1-js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check social-golfers.js && node --check sudoku.js && node --check latin-square.js && node --check search-trees.js && node --check search-algorithms.js && node --check index.js"
+  }
+}
